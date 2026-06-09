@@ -1,0 +1,168 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Aarav Mehta",
+      "email": "aarav@mehta-industries.in",
+      "phone": "+91 98450 12345"
+    },
+    {
+      "id": "u2",
+      "name": "Ananya Sharma",
+      "email": "ananya.sharma@techpune.com",
+      "phone": "+91 99000 54321"
+    },
+    {
+      "id": "u3",
+      "name": "Vikram Rao",
+      "email": "vikram@raoconsulting.co.in",
+      "phone": "+91 94480 99999"
+    },
+    {
+      "id": "u4",
+      "name": "Sudeep Gowda",
+      "email": "sudeep@bangarpetstartups.in",
+      "phone": "+91 91100 88888"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "b1",
+      "customerName": "Aarav Mehta",
+      "email": "aarav@mehta-industries.in",
+      "phone": "+91 98450 12345",
+      "serviceType": "Startup Tech Advisory",
+      "appointmentDate": "2026-06-08",
+      "appointmentTime": "13:00",
+      "notes": "Discussing philosophy-driven product scaling and mental models for managing larger development teams in Bengaluru.",
+      "status": "pending",
+      "createdAt": "2026-06-05T09:30:00.000Z"
+    },
+    {
+      "id": "b2",
+      "customerName": "Ananya Sharma",
+      "email": "ananya.sharma@techpune.com",
+      "phone": "+91 99000 54321",
+      "serviceType": "1:1 Career & Tech Consultation",
+      "appointmentDate": "2026-06-07",
+      "appointmentTime": "10:00",
+      "notes": "Transitioning from Senior Engineer to Architect role, wanting a feedback audit on my career portfolio.",
+      "status": "approved",
+      "createdAt": "2026-06-06T14:15:00.000Z"
+    },
+    {
+      "id": "b3",
+      "customerName": "Vikram Rao",
+      "email": "vikram@raoconsulting.co.in",
+      "phone": "+91 94480 99999",
+      "serviceType": "Full-Stack Architecture Audit",
+      "appointmentDate": "2026-06-09",
+      "appointmentTime": "11:00",
+      "notes": "Reviewing automated ERP and inventory distribution software design with real fail-safes and security guarantees.",
+      "status": "approved",
+      "createdAt": "2026-06-05T18:00:00.000Z"
+    },
+    {
+      "id": "b4",
+      "customerName": "Sudeep Gowda",
+      "email": "sudeep@bangarpetstartups.in",
+      "phone": "+91 91100 88888",
+      "serviceType": "1:1 Career & Tech Consultation",
+      "appointmentDate": "2026-06-07",
+      "appointmentTime": "14:00",
+      "notes": "Looking for scaling advice on React state management for modular dashboards.",
+      "status": "cancelled",
+      "createdAt": "2026-06-04T10:00:00.000Z"
+    }
+  ],
+  "availability": [
+    {
+      "id": "a1",
+      "date": "2026-06-07",
+      "availableSlots": [
+        "09:00",
+        "10:00",
+        "11:00",
+        "14:00",
+        "15:00"
+      ]
+    },
+    {
+      "id": "a2",
+      "date": "2026-06-08",
+      "availableSlots": [
+        "10:00",
+        "11:00",
+        "13:00",
+        "14:00",
+        "15:30",
+        "16:00"
+      ]
+    },
+    {
+      "id": "a3",
+      "date": "2026-06-09",
+      "availableSlots": [
+        "09:00",
+        "10:00",
+        "11:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00"
+      ]
+    },
+    {
+      "id": "a4",
+      "date": "2026-06-10",
+      "availableSlots": [
+        "09:00",
+        "10:00",
+        "13:00",
+        "14:00"
+      ]
+    },
+    {
+      "id": "a5",
+      "date": "2026-06-11",
+      "availableSlots": [
+        "10:00",
+        "11:00",
+        "13:00",
+        "14:00",
+        "15:00",
+        "16:00"
+      ]
+    },
+    {
+      "id": "a6",
+      "date": "2026-06-12",
+      "availableSlots": [
+        "09:00",
+        "11:00",
+        "14:00",
+        "15:00"
+      ]
+    },
+    {
+      "id": "a7",
+      "date": "2026-06-13",
+      "availableSlots": [
+        "10:00",
+        "13:00",
+        "14:00"
+      ]
+    },
+    {
+      "id": "a8",
+      "date": "2026-06-14",
+      "availableSlots": [
+        "09:00",
+        "10:00",
+        "11:00",
+        "14:00",
+        "15:00"
+      ]
+    }
+  ]
+}

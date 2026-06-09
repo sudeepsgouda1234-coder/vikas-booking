@@ -1,0 +1,6 @@
+{
+  "name": "Book Vikas",
+  "description": "Professional SaaS-style Appointment Booking Web Application with an Admin Dashboard, interactive scheduling, custom availability, status tracking, and SMTP email notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
